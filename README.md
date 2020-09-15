@@ -5,8 +5,8 @@
 For the Marketing Agency: Create a codebase that follows accessibility standards so that the site is optimized for search engines.
 
 <h2>Acceptance Criteria:</h2>
-GIVEN a webpage meets accessibility standards:
 <ul>
+<li>GIVEN a webpage meets accessibility standards:</li>
 <li>WHEN I view the source code</li>
 <li>THEN I find semantic HTML elements</li>
 <li>WHEN I view the structure of the HTML elements</li>
